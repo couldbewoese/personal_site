@@ -6,6 +6,6 @@ title: "About Me"
 title: "About Me"
 ---
 
-- __Name:__ Skyler
+- __Name:__ Skyler Sung
 - __Ocupation:__ "Undergraduate Neuroscience student and microbiology research assistant at Amherst College"
 - __Hobbies:__ Photography
