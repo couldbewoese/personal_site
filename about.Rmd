@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+---
+title: "About Me"
+---
+
+- __Name:__ Skyler
+- __Ocupation:__ "Undergraduate Neuroscience student and microbiology research assistant at Amherst College"
+- __Hobbies:__ Photography
