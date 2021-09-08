@@ -3,9 +3,13 @@ title: "About Me"
 ---
 
 ---
-title: "About Me"
+title: Skyler Sung
 ---
+Pronouns: he/him/his
 
 - __Name:__ Skyler Sung
 - __Ocupation:__ "Undergraduate Neuroscience student and microbiology research assistant at Amherst College"
-- __Hobbies:__ Photography
+- __Hobbies:__ Photography, Hiking,  
+
+
+![](Scholastics_2020.jpeg)
