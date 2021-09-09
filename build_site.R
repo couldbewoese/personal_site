@@ -3,7 +3,7 @@
 #not our site because of other projects we were 
 #working on at the time. 
 
-setwd("/Users/Skyler/sites/personal_site")
+setwd("/Users/skyler/sites/personal_site")
 install.packages("rmarkdown", type = "source")
 library(rmarkdown)
 
