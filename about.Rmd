@@ -8,8 +8,10 @@ title: Skyler Sung
 Pronouns: he/him/his
 
 - __Name:__ Skyler Sung
-- __Ocupation:__ "Undergraduate Neuroscience student and microbiology research assistant at Amherst College"
-- __Hobbies:__ Photography, Hiking,  
+- __Occupation:__ Undergraduate Neuroscience student and microbiology research assistant at Amherst College
+- __Research Interests:__ Microbiomes, fungal genomics, symbiosis, neuromodulation
+- __Hobbies:__ Photography, Hiking, Travel
+
 
 
 ![](Scholastics_2020.jpeg)
