@@ -5,4 +5,4 @@ output: html_document
 
 __Projects__
 
-- __Fungal Annotation Pipeline:__ 
+- __Fungal Annotation Pipeline:__ [Git](https://github.com/couldbewoese/funannotate_script)
