@@ -3,6 +3,7 @@ title: "Projects"
 output: html_document
 ---
 
-__Projects__
 
-- __Fungal Annotation Pipeline:__ [Git](https://github.com/couldbewoese/funannotate_script)
+- __Fungal Annotation Pipeline:__ 
+  - [Github repository](https://github.com/couldbewoese/funannotate_script)
+  - 
