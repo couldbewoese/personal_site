@@ -2,7 +2,7 @@
 title: "Skyler's Website"
 ---
 
-__Welcome to my site!__
+__Welcome to the site!__
 $$Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3$$
 
 
