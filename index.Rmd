@@ -7,7 +7,7 @@ $$Y = \alpha \cdot \sin(X), \alpha = 0,0.1,0.2,...,3$$
 
 
 
-```{r, echo = FALSE, fig.align='center', message=FALSE}
+```{r, echo = FALSE, fig.align='center', message=FALSE, warning=F, error=F}
 #install.packages("tidyverse")
 library(tidyverse)
 cool_function <- function(x, alpha) return(sin(alpha*x))
